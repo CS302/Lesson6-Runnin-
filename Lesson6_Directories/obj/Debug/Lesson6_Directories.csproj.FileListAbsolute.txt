@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Lesson6\Lesson6_Directories\bin\Debug\Lesson6_Directories.exe.config
+C:\Users\Alex\Desktop\Lesson6\Lesson6_Directories\bin\Debug\Lesson6_Directories.exe
+C:\Users\Alex\Desktop\Lesson6\Lesson6_Directories\bin\Debug\Lesson6_Directories.pdb
+C:\Users\Alex\Desktop\Lesson6\Lesson6_Directories\obj\Debug\Lesson6_Directories.exe
+C:\Users\Alex\Desktop\Lesson6\Lesson6_Directories\obj\Debug\Lesson6_Directories.pdb
+C:\Users\Alex\Desktop\Lesson6\Lesson6_Directories\obj\Debug\Lesson6_Directories.csprojResolveAssemblyReference.cache

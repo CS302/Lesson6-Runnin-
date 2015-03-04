@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6", "Lesson6\Lesson6.csproj", "{885DFCC9-0950-4E6A-862E-90B0A0F88B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_Directories", "Lesson6_Directories\Lesson6_Directories.csproj", "{E20E7BC5-DBDA-44B6-8529-6EFB50C57054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_HomeWork", "Lesson6_HomeWork\Lesson6_HomeWork.csproj", "{8AA8CDC9-D864-4371-94C3-4C62075C7ED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885DFCC9-0950-4E6A-862E-90B0A0F88B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885DFCC9-0950-4E6A-862E-90B0A0F88B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885DFCC9-0950-4E6A-862E-90B0A0F88B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885DFCC9-0950-4E6A-862E-90B0A0F88B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20E7BC5-DBDA-44B6-8529-6EFB50C57054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20E7BC5-DBDA-44B6-8529-6EFB50C57054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20E7BC5-DBDA-44B6-8529-6EFB50C57054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20E7BC5-DBDA-44B6-8529-6EFB50C57054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA8CDC9-D864-4371-94C3-4C62075C7ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA8CDC9-D864-4371-94C3-4C62075C7ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA8CDC9-D864-4371-94C3-4C62075C7ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA8CDC9-D864-4371-94C3-4C62075C7ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
